@@ -5,7 +5,7 @@ A professional-quality, multi-page web application developed in Python using Str
 This platform serves as a complete computational engineering suite for fluid mechanics, thermal conduction, transient cooling, and reservoir data analytics.
 
 ## 🚀 Live Demo
-**App URL:** *[Insert Live Streamlit Community Cloud URL here]*
+**App URL:** [https://capstone-fgemhks6kn8vhzoe6fgz3f.streamlit.app/](https://capstone-fgemhks6kn8vhzoe6fgz3f.streamlit.app/)
 
 ---
 
